@@ -1,0 +1,37 @@
+{
+"symbol": "DMZ",
+
+"name": "DMZ",
+
+"type": "ERC20",
+
+"address": "0xc2B5027907673041279C9006C8f83968E75A42b9",
+"ens_address": "",
+"decimals": "18",
+"website": "https://DMZ.world",
+"logo": {
+    "src": "https://www.dmz.world/uploads/6/7/1/4/6714822/published/dmzlogo3300.jpg?1616009057",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "dmz@dmz.world",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/DMZcrypto",
+    "forum": "",
+    "github": "https://github.com/DMZ-DeMilitarized-Zone-Cryptocurrency",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/dmzcrypto/",
+    "linkedin": "https://www.linkedin.com/company/dmzcrypto",
+    "reddit": "https://www.reddit.com/r/DMZcrypto",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/DMZcrypto",
+    "youtube": "https://www.youtube.com/channel/UCyJkX-iAVds_8z4Kge3dtgg"
+}
+}
